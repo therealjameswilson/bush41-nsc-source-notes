@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-07-01T22:45:28Z",
+  "source_url": "https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration",
+  "repository_phrase": "George H.W. Bush Library, Bush Presidential Records, National Security Council",
+  "series_count": 298,
+  "series_with_container_lists": 277,
+  "entry_count": 66807,
+  "folder_entry_count": 66786,
+  "series_stem_count": 21,
+  "online_folder_entry_count": 3676,
+  "catalog_link_count": 66807,
+  "online_object_link_count": 3678,
+  "scrape_error_count": 0,
+  "scrape_errors": [],
+  "validation": {
+    "problem_count": 0,
+    "problems": [],
+    "duplicate_source_note_count": 753,
+    "entries_missing_folder_locator": 12,
+    "series_stem_count": 21
+  }
+}

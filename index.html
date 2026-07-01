@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Copy-pasteable FRUS-style source-note metadata entries for George H.W. Bush administration NSC files."
+    />
+    <title>George H.W. Bush NSC Source Notes</title>
+    <link rel="icon" href="assets/bush41-nsc-source-map.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">George H.W. Bush Library</p>
+        <h1>NSC Source Notes</h1>
+      </div>
+      <nav class="download-nav" aria-label="Downloads">
+        <a href="downloads/bush41-nsc-source-note-entries.md">Markdown</a>
+        <a href="downloads/bush41-nsc-source-note-entries.txt">Text</a>
+        <a href="downloads/bush41-nsc-source-note-entries.csv">CSV</a>
+        <a href="downloads/bush41-nsc-source-note-entries.json">JSON</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="workbench" aria-labelledby="browser-heading">
+        <div class="controls-column">
+          <div class="summary-band" id="summaryBand">
+            <div>
+              <span class="metric" id="entryCount">--</span>
+              <span class="metric-label">entries</span>
+            </div>
+            <div>
+              <span class="metric" id="folderCount">--</span>
+              <span class="metric-label">folder rows</span>
+            </div>
+            <div>
+              <span class="metric" id="seriesCount">--</span>
+              <span class="metric-label">series</span>
+            </div>
+            <div>
+              <span class="metric" id="onlineCount">--</span>
+              <span class="metric-label">online folders</span>
+            </div>
+          </div>
+
+          <h2 id="browser-heading">Copy-Paste Browser</h2>
+          <p class="style-note">
+            Source notes follow FRUS order: George H.W. Bush Library, Bush Presidential Records, National Security Council, normalized series path, OA/ID or NAID locator, folder title. Catalog links and online-object URLs stay outside the copied note.
+          </p>
+          <div class="control-grid">
+            <label class="field span-2">
+              <span>Search</span>
+              <input id="searchInput" type="search" placeholder="H-Files, NSR-14, CF01590, Tiananmen, Scowcroft" />
+            </label>
+            <label class="field">
+              <span>Series</span>
+              <select id="seriesFilter">
+                <option value="all">All series</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>Rows</span>
+              <select id="rowFilter">
+                <option value="all">All rows</option>
+                <option value="folder">Folder entries</option>
+                <option value="series_stem">Series stems</option>
+                <option value="online">Online folders</option>
+                <option value="onsite">On-site folders</option>
+                <option value="naid">NAID fallback</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="action-row">
+            <button id="copyFiltered" type="button">Copy Filtered Source Notes</button>
+            <button id="resetFilters" type="button">Reset</button>
+            <span id="copyStatus" role="status" aria-live="polite"></span>
+          </div>
+        </div>
+
+        <figure class="source-map">
+          <img src="assets/bush41-nsc-source-map.svg" alt="Diagram of the Bush NSC source-note path from library to series to folder" />
+          <figcaption>Collection path used for the copied Source notes</figcaption>
+        </figure>
+      </section>
+
+      <section class="results-section" aria-labelledby="results-heading">
+        <div class="results-header">
+          <div>
+            <p class="eyebrow">Source note entries</p>
+            <h2 id="results-heading">Results</h2>
+          </div>
+          <p id="resultCount">Loading entries...</p>
+        </div>
+        <div class="results-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Source Note</th>
+                <th scope="col">Locator</th>
+                <th scope="col">Series</th>
+                <th scope="col">Access</th>
+                <th scope="col">Copy</th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <template id="rowTemplate">
+      <tr>
+        <td>
+          <p class="source-note"></p>
+          <p class="row-meta"></p>
+        </td>
+        <td class="locator-cell"></td>
+        <td class="series-cell"></td>
+        <td class="access-cell"></td>
+        <td><button class="copy-row" type="button">Copy</button></td>
+      </tr>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

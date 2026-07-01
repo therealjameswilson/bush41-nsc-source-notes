@@ -1,0 +1,315 @@
+:root {
+  color-scheme: light;
+  --ink: #1d2526;
+  --muted: #596566;
+  --line: #cfd8d7;
+  --panel: #f5f7f5;
+  --accent: #245c4f;
+  --accent-strong: #173f38;
+  --gold: #a7672c;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--white);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.5;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: center;
+  border-bottom: 1px solid var(--line);
+  padding: 22px 32px;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  color: var(--accent);
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2 {
+  margin: 0;
+  letter-spacing: 0;
+  line-height: 1.08;
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3.45rem);
+}
+
+h2 {
+  font-size: 1.55rem;
+}
+
+main {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 28px 24px 64px;
+}
+
+.download-nav,
+.action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.download-nav a,
+button {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--accent-strong);
+  font: inherit;
+  font-weight: 750;
+  padding: 9px 12px;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.download-nav a:hover,
+button:hover {
+  border-color: var(--accent);
+  background: var(--white);
+}
+
+.workbench {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+  gap: 26px;
+  align-items: stretch;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 28px;
+}
+
+.summary-band {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(120px, 1fr));
+  gap: 10px;
+  margin-bottom: 22px;
+}
+
+.summary-band > div {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 13px 14px;
+}
+
+.metric {
+  display: block;
+  font-size: 1.65rem;
+  font-weight: 850;
+  line-height: 1.1;
+}
+
+.metric-label {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.style-note {
+  max-width: 88ch;
+  margin: 10px 0 18px;
+  color: var(--muted);
+}
+
+.control-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.field {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-weight: 750;
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+input,
+select {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--white);
+  color: var(--ink);
+  font: inherit;
+  padding: 10px 11px;
+}
+
+input:focus,
+select:focus {
+  outline: 2px solid rgba(36, 92, 79, 0.22);
+  border-color: var(--accent);
+}
+
+#copyStatus {
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.source-map {
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fbfcfb;
+  padding: 14px;
+  min-height: 100%;
+}
+
+.source-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.source-map figcaption {
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin-top: 10px;
+}
+
+.results-section {
+  padding-top: 28px;
+}
+
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: end;
+  margin-bottom: 16px;
+}
+
+#resultCount {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.04rem;
+  font-weight: 750;
+}
+
+.results-table-wrap {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 980px;
+}
+
+th,
+td {
+  border-bottom: 1px solid var(--line);
+  padding: 12px 14px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: var(--panel);
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+tr:last-child td {
+  border-bottom: 0;
+}
+
+.source-note {
+  margin: 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.98rem;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+.row-meta {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.row-meta a {
+  color: var(--accent-strong);
+  font-weight: 700;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.locator-cell,
+.series-cell,
+.access-cell {
+  color: var(--muted);
+  font-size: 0.92rem;
+  max-width: 220px;
+  overflow-wrap: anywhere;
+}
+
+.empty {
+  color: var(--muted);
+  padding: 24px;
+}
+
+@media (max-width: 900px) {
+  .topbar,
+  .results-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .workbench {
+    grid-template-columns: 1fr;
+  }
+
+  .summary-band {
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
+  }
+}
+
+@media (max-width: 620px) {
+  .topbar,
+  main {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .summary-band,
+  .control-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .span-2 {
+    grid-column: span 1;
+  }
+}
