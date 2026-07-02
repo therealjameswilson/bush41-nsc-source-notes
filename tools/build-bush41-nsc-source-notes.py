@@ -1006,7 +1006,7 @@ def write_outputs(root: Path, series_rows: list[dict], entries: list[dict], erro
     )
     (data_dir / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (downloads_dir / "bush41-nsc-source-note-entries.json").write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8"
     )
 
     columns = [
