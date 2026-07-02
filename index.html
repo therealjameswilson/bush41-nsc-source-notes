@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="Copy-pasteable FRUS-style source-note metadata entries for George H.W. Bush administration NSC files."
+      content="Copy-pasteable FRUS-style source-note metadata entries for George H.W. Bush administration source lists."
     />
-    <title>George H.W. Bush NSC Source Notes</title>
+    <title>George H.W. Bush Source Notes</title>
     <link rel="icon" href="assets/bush41-nsc-source-map.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -15,7 +15,7 @@
     <header class="topbar">
       <div>
         <p class="eyebrow">George H.W. Bush Library</p>
-        <h1>NSC Source Notes</h1>
+        <h1>Bush Administration Source Notes</h1>
       </div>
       <nav class="download-nav" aria-label="Downloads">
         <a href="downloads/bush41-nsc-source-note-entries.md">Markdown</a>
@@ -43,18 +43,24 @@
             </div>
             <div>
               <span class="metric" id="onlineCount">--</span>
-              <span class="metric-label">online folders</span>
+              <span class="metric-label">online records</span>
             </div>
           </div>
 
           <h2 id="browser-heading">Copy-Paste Browser</h2>
           <p class="style-note">
-            Source notes follow FRUS order: George H.W. Bush Library, Bush Presidential Records, National Security Council, normalized series path, OA/ID or NAID locator, folder title. Catalog links and online-object URLs stay outside the copied note.
+            Source notes follow FRUS order: George H.W. Bush Library, record collection, normalized series path, OA/ID or NAID locator, folder or item title. Catalog links and online-object URLs stay outside the copied note.
           </p>
           <div class="control-grid">
             <label class="field span-2">
               <span>Search</span>
               <input id="searchInput" type="search" placeholder="H-Files, NSR-14, CF01590, Tiananmen, Scowcroft" />
+            </label>
+            <label class="field">
+              <span>Source Group</span>
+              <select id="sourceGroupFilter">
+                <option value="all">All source groups</option>
+              </select>
             </label>
             <label class="field">
               <span>Series</span>
@@ -68,7 +74,8 @@
                 <option value="all">All rows</option>
                 <option value="folder">Folder entries</option>
                 <option value="series_stem">Series stems</option>
-                <option value="online">Online folders</option>
+                <option value="item">Catalog items</option>
+                <option value="online">Online records</option>
                 <option value="onsite">On-site folders</option>
                 <option value="naid">NAID fallback</option>
               </select>
@@ -83,7 +90,7 @@
         </div>
 
         <figure class="source-map">
-          <img src="assets/bush41-nsc-source-map.svg" alt="Diagram of the Bush NSC source-note path from library to series to folder" />
+          <img src="assets/bush41-nsc-source-map.svg" alt="Diagram of the Bush source-note path from library to series to folder" />
           <figcaption>Collection path used for the copied Source notes</figcaption>
         </figure>
       </section>

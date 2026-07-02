@@ -8,6 +8,7 @@ const state = {
   matches: [],
   query: "",
   queryTerms: [],
+  sourceGroup: "all",
   series: "all",
   rowFilter: "all",
   renderedCount: 0,
@@ -20,6 +21,7 @@ const els = {
   seriesCount: document.querySelector("#seriesCount"),
   onlineCount: document.querySelector("#onlineCount"),
   search: document.querySelector("#searchInput"),
+  sourceGroup: document.querySelector("#sourceGroupFilter"),
   series: document.querySelector("#seriesFilter"),
   rowFilter: document.querySelector("#rowFilter"),
   reset: document.querySelector("#resetFilters"),
@@ -38,6 +40,8 @@ function normalizeEntry(entry) {
   const normalized = {
     sourceNote: entry.n,
     entryType: entry.t,
+    sourceGroup: entry.g,
+    sourcePrefix: entry.p,
     sourceSeries: entry.ss,
     seriesTitle: entry.st,
     seriesLocalId: entry.sl,
@@ -52,6 +56,8 @@ function normalizeEntry(entry) {
   };
   normalized.haystack = [
     normalized.sourceNote,
+    normalized.sourceGroup,
+    normalized.sourcePrefix,
     normalized.sourceSeries,
     normalized.seriesTitle,
     normalized.seriesLocalId,
@@ -83,8 +89,24 @@ function populateSeries(seriesRows) {
   });
 }
 
+function populateSourceGroups(entries) {
+  const groups = [...new Set(entries.map((entry) => entry.sourceGroup).filter(Boolean))].sort((a, b) =>
+    a.localeCompare(b),
+  );
+  groups.forEach((group) => {
+    const node = document.createElement("option");
+    node.value = group;
+    node.textContent = group;
+    els.sourceGroup.appendChild(node);
+  });
+}
+
 function matchesQuery(entry) {
   return !state.queryTerms.length || state.queryTerms.every((term) => entry.haystack.includes(term));
+}
+
+function matchesSourceGroup(entry) {
+  return state.sourceGroup === "all" || entry.sourceGroup === state.sourceGroup;
 }
 
 function matchesSeries(entry) {
@@ -95,6 +117,7 @@ function matchesRowFilter(entry) {
   if (state.rowFilter === "all") return true;
   if (state.rowFilter === "folder") return entry.entryType === "folder";
   if (state.rowFilter === "series_stem") return entry.entryType === "series_stem";
+  if (state.rowFilter === "item") return entry.entryType === "item";
   if (state.rowFilter === "online") return entry.availability === "Online";
   if (state.rowFilter === "onsite") return entry.availability === "On Site";
   if (state.rowFilter === "naid") return entry.entryType === "folder" && !entry.localId && entry.fileUnitNaid;
@@ -102,7 +125,9 @@ function matchesRowFilter(entry) {
 }
 
 function applyFilters() {
-  state.matches = state.entries.filter((entry) => matchesQuery(entry) && matchesSeries(entry) && matchesRowFilter(entry));
+  state.matches = state.entries.filter(
+    (entry) => matchesQuery(entry) && matchesSourceGroup(entry) && matchesSeries(entry) && matchesRowFilter(entry),
+  );
   state.renderedCount = 0;
   els.body.replaceChildren();
   appendResults(INITIAL_RESULTS);
@@ -154,6 +179,7 @@ function appendResults(count) {
     row.querySelector(".access-cell").textContent = entry.availability || "Series stem";
 
     const metaParts = [];
+    if (entry.sourceGroup) metaParts.push(entry.sourceGroup);
     if (entry.seriesTitle && entry.seriesTitle !== entry.sourceSeries) metaParts.push(`Finding-aid heading: ${entry.seriesTitle}`);
     if (entry.fileUnitNaid) metaParts.push(`NAID ${entry.fileUnitNaid}`);
     if (entry.recordTypes) metaParts.push(entry.recordTypes);
@@ -219,12 +245,13 @@ async function loadData() {
   const summary = payload.summary || {};
 
   state.entries = (payload.entries || []).map(normalizeEntry);
+  populateSourceGroups(state.entries);
   populateSeries(payload.series || []);
 
   els.entryCount.textContent = formatNumber(summary.entry_count || state.entries.length);
   els.folderCount.textContent = formatNumber(summary.folder_entry_count || 0);
   els.seriesCount.textContent = formatNumber(summary.series_count || 0);
-  els.onlineCount.textContent = formatNumber(summary.online_folder_entry_count || 0);
+  els.onlineCount.textContent = formatNumber(summary.online_entry_count || summary.online_folder_entry_count || 0);
   applyFilters();
 }
 
@@ -242,6 +269,11 @@ els.series.addEventListener("change", (event) => {
   applyFilters();
 });
 
+els.sourceGroup.addEventListener("change", (event) => {
+  state.sourceGroup = event.target.value;
+  applyFilters();
+});
+
 els.rowFilter.addEventListener("change", (event) => {
   state.rowFilter = event.target.value;
   applyFilters();
@@ -250,9 +282,11 @@ els.rowFilter.addEventListener("change", (event) => {
 els.reset.addEventListener("click", () => {
   state.query = "";
   state.queryTerms = [];
+  state.sourceGroup = "all";
   state.series = "all";
   state.rowFilter = "all";
   els.search.value = "";
+  els.sourceGroup.value = "all";
   els.series.value = "all";
   els.rowFilter.value = "all";
   els.copyStatus.textContent = "";

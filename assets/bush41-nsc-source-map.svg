@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
-  <title id="title">Bush NSC source-note path</title>
-  <desc id="desc">A compact diagram showing repository, record group, NSC series, and folder-level source-note locators.</desc>
+  <title id="title">Bush source-note path</title>
+  <desc id="desc">A compact diagram showing repository, record collection, source series, and folder-level source-note locators.</desc>
   <rect width="760" height="520" fill="#fbfcfb"/>
   <g fill="none" stroke="#cfd8d7" stroke-width="3">
     <path d="M118 116H642"/>
@@ -15,17 +15,17 @@
     </g>
     <g>
       <rect x="72" y="182" width="616" height="88" rx="8" fill="#ffffff" stroke="#cfd8d7"/>
-      <text x="104" y="218" font-size="18" font-weight="700">Bush Presidential Records, National Security Council</text>
-      <text x="104" y="246" font-size="15" fill="#596566">Collection path retained before the series title</text>
+      <text x="104" y="218" font-size="18" font-weight="700">Bush Presidential Records and selected collections</text>
+      <text x="104" y="246" font-size="15" fill="#596566">Record collection retained before the series path</text>
     </g>
     <g>
       <rect x="72" y="302" width="616" height="88" rx="8" fill="#f5f7f5" stroke="#cfd8d7"/>
-      <text x="104" y="338" font-size="18" font-weight="700">298 NSC series</text>
-      <text x="104" y="366" font-size="15" fill="#596566">Series headings normalized for FRUS-style commas where supported</text>
+      <text x="104" y="338" font-size="18" font-weight="700">NSC, Scowcroft, and Presidential Daily lists</text>
+      <text x="104" y="366" font-size="15" fill="#596566">Series headings normalized for FRUS-style copy and paste</text>
     </g>
     <g>
       <rect x="72" y="422" width="616" height="62" rx="8" fill="#fffaf4" stroke="#d8c2a9"/>
-      <text x="104" y="459" font-size="18" font-weight="700" fill="#6f411e">OA/ID or NAID locator, folder title</text>
+      <text x="104" y="459" font-size="18" font-weight="700" fill="#6f411e">OA/ID or NAID locator, folder or item title</text>
     </g>
   </g>
   <g fill="#245c4f">
