@@ -1,6 +1,6 @@
 # George H.W. Bush NSC Source Note Entries
 
-Generated: 2026-07-02T02:06:29Z
+Generated: 2026-07-02T16:42:11Z
 Source finding aid: https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration
 
 ```text
@@ -69660,3 +69660,1751 @@ Source: George H.W. Bush Library, [record collection], [series path], OA/ID or N
 - Source: George H.W. Bush Library, Bush Presidential Records, Presidential Daily Files, OA/ID 90501-008, Wednesday, February 1, 1989.
 - Source: George H.W. Bush Library, Bush Presidential Records, Presidential Daily Files, OA/ID 90500-008, Wednesday, January 25, 1989.
 - Source: George H.W. Bush Library, Bush Presidential Records, Presidential Daily Files, OA/ID 90618-001, Loan Guarantee Israel, 9/11-14/91.
+
+## Subject Files
+
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-005, Strategic Planning-Defense [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-001, Strategic Defense Initiative (SDI) [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-008, Strategic Defense Initiative (SDI) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-007, Strategic Defense Initiative (SDI) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-011, Public Affairs.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-006, Programs-Military Services [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-006, POW/MIA Matters [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32030-003, Persian Gulf War (Operation Desert Shield/Storm) [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32030-002, Persian Gulf War (Operation Desert Shield/Storm) [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-007, October Surprise.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-003, Nuclear Weapons [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-007, Legal Issues [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-005, Investigations-Tailhook [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-004, Investigations-Tailhook [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-007, Inspector General Reports [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-004, Inspector General Reports [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-003, Industrial Base [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-004, Health Affairs [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-007, Force Management and Personnel-Reshaping the Force [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-003, Force Management and Personnel-Other Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-001, Force Management and Personnel-Other Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-010, Counternarcotics Operations [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-002, Chemical and Biological Warfare Issues [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-001, Chemical and Biological Warfare Issues [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-009, Budget [21].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-002, Budget [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-001, Budget [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-008, Budget [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-009, Arms Control-START [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-007, Annual Report to the President and the Congress.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-004, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-003, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-002, Active/Reserve Mix [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-005, Acquisition [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-008, Trip Reports.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-007, Strategic Defense Initiative (SDI) [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32014-008, Space Issues [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32014-006, Space Issues [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32014-002, Space Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-005, Programs-Military Services [B] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-007, Programs-Military Service [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-005, Programs-Defense Agencies.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-004, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-003, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32006-007, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32005-007, Nuclear Weapons [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32005-005, Mobilization.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-009, Legislative Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-002, Investigations-Tailhook.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-009, Hiring Freeze (Civilian).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-006, Health Affairs [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-002, Freedom of Navigation Program.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-010, Force Management and Personnel-Reshaping the Force [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-009, Defense Planning and Resources Board (DPRB).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-006, Chemical and Biological Warfare Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-009, Budget [18].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-005, Budget [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-004, Budget [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-001, Budget [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-004, Base Closures/Realignments [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-011, Base Closures/Realignments [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-009, Arms Control-Threshold Test Ban Treaty (TTBT).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-009, Advisory Committees-Defense Sciences Board [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-005, Strategic Planning-National [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-003, Strategic Planning-Defense [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-005, Space Issues [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-005, Public Affairs [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31986-007, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [23].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31986-005, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [21].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31986-001, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31985-005, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-007, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-007, Nuclear Weapons [B] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-004, Nuclear Weapons [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-002, Nuclear Weapons [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-009, Nuclear Weapons [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-002, Legislative Issues [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31981-006, Legislative Issues [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-010, Inspector General Reports [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-005, Inspector General Reports [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-002, ICBM Modernization [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-010, Humanitarian Missions.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-005, Health Affairs [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-002, Foreign Military Sales [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-008, Force Management and Personnel-Other Issues [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31977-009, Defense Planning and Resource Board (DPRB) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31977-003, Defense Management-Report [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31976-005, Defense Management-Reform [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-005, Counternarcotics Operations [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-001, Contingency Operations-Panama-Operation JUST CAUSE/PROMOTE LIBERTY [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-010, Construction Freeze [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-009, Chemical and Biological Weapons Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-003, Budget [I].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-002, Budget [H] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-007, Base Closures/Realignments [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-005, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-003, Acquisition.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-011, Weekly Report to the President [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-010, Trip Reports.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-003, Strategic Planning-National [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-005, Public Affairs [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31963-008, Programs-Military Services [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31963-004, Programs-Military Services [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31963-002, Programs-Military Services [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31962-002, Nuclear Weapons [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31961-001, Legal Issues [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-007, Inspector General Reports [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-001, Defense Management Report [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-005, Counternarcotics [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-007, Budget [C] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-005, Budget [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-007, Budget [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-006, Base Negotiations (Overseas).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31950-001, Accidents.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-008, Technology Transfer/Security [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-007, Strategic Planning-National [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-004, Programs-Military Services [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-001, Programs-Military Services [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-009, POW/MIA Matters [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-010, Persian Gulf War (Operation Desert Shield/Storm) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-008, Organizational Issues-DoD Internal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-008, Inspector General Reports [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-007, Hiring Freeze (Civilian).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-002, Health Affairs [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-008, Force Management and Personnel-Reshaping the Force [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-003, Defense Management Reform [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-002, Defense Management Reform [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-009, Counternarcotics Operations [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-006, Chemical and Biological Warfare Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-008, Budget [20].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-006, Budget [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-001, Budget [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-008, Base Negotiations (Overseas).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-003, Arms Control-START [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-002, Arms Control-START [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-008, Arms Control-CFE/1A.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-005, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-008, Strategic Planning-Defense.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-005, Strategic Defense Initiative (SDI) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-003, Strategic Defense Initiative (SDI) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-002, Special Operations [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32014-004, Space Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32014-003, Space Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-003, POW/MIA Matters [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-006, POW/MIA Matters [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-005, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [23].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-003, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-002, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32008-007, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32008-005, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32008-003, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-009, Persian Gulf War (Operation DESERT STORM/SHIELD) [B] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-008, Persian Gulf War (Operation DESERT STORM/SHIELD) [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-005, Persian Gulf War (Operation DESERT STORM/SHIELD) [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-001, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-008, Legislative Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-005, Legal Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-011, Inspector General Reports [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-008, Inspector General Reports [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-007, Health Affairs [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-009, Force Management and Personnel-Reshaping the Force [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-006, Force Management and Personnel-Other Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-008, Defense Management-Report [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-006, Defense Management-Reform.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-005, Defense Management-Initiatives.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-003, Construction Freeze [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-002, Construction Freeze [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-004, Chemical and Biological Warfare Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-008, Budget [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-006, Budget [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-001, Budget [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-005, Base Closures/Realignments [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-001, Base Closures/Realignments [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-006, Arms Control-CSCE/CSBM.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-001, Annual Report to the President and the Congress.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-002, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31992-008, Active/Reserve Mix.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31992-002, Acquisition [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31992-001, Accidents.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-003, Weekly Reports to the President (Weekly Intergovernmental Affairs (IGA) Reports [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-007, Strategic Planning-National [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-008, Space Issues [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-006, Space Issues [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-002, Space Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-007, Public Affairs [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-003, Programs-Military Services [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-006, Programs-Military Services [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31986-003, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [19].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31985-007, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-006, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-006, Nuclear Proliferation.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-005, Mobilization.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-008, Hiring Freeze (Civilian) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-010, Force Management and Personnel-Other Issues [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-009, Force Management and Personnel-Other Issues [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-007, Force Management and Personnel-Other Issues [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-001, Domestic Assistance-Alaskan Oil Spill.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-012, Weekly Report to the President [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-010, Strategic Defense Initiative (SDI) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-006, Public Statements.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-003, Public Affairs [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31963-005, Programs-Military Services [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31962-003, Nuclear Weapons [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31961-006, Legislative Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31961-005, Legal Issues [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31961-004, Legal Issues [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-010, Intelligence Matters.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-009, Inspector General Reports [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-008, Inspector General Reports [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-003, Humanitarian Missions.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-001, Health Affairs [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-011, Foreign Military Sales [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-009, Force Management and Personnel-Reshaping the Force.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-004, Counternarcotics [C].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-008, Congress Testimony [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-003, Budget [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-001, Budget [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-001, Arms Control-START [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31951-006, Arms Control-INF Treaty.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31950-009, Advisory Committees-Defense Science Board.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-003, Strategic Planning-Defense [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-009, Strategic Defense Initiative (SDI) [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-006, Strategic Defense Initiative (SDI) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-003, Space Issues [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-009, Programs-Military Services [A] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-007, POW/MIA Matters [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-004, Persian Gulf War (Operation Desert Shield/Storm) [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32030-005, Persian Gulf War (Operation Desert Shield/Storm) [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-011, Persian Gulf War (Operation Desert Shield/Storm) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-006, Nuclear Weapons [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-001, Nuclear Proliferation [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-011, Legislative Issues [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-003, Investigations-Former Secretary of Defense Weinberger (Iran-Contra) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-010, Inspector General Reports [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-009, Inspector General Reports [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-002, Industrial Base [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-001, Foreign Military Sales (FMS).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-004, Force Management and Personnel-Other Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-002, Force Management and Personnel-Other Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-007, Domestic Assistance [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-005, Defense Planning and Resources Board (DPRB).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-003, Budget [24].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-002, Budget [23].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-007, Budget [19].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-005, Budget [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-001, Arms Control-START [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-006, Advisory Committees-Defense Science Board.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-009, Active/Reserve Mix [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-008, Active/Reserve Mix [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-003, Acquisition [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-003, Technology Transfer [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-001, Technology Security.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-005, Programs-Military Services [B] [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-004, Programs-Military Services [B] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-002, POW/MIA Matters [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-008, POW/MIA Matters [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-003, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [21].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-006, Public Affairs [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-001, Programs-Military Services [B] [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-007, Programs-Military Services [B] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-009, Programs-Military Services [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-008, Programs-Military Services [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32011-006, Programs-Intelligence Matters.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-009, POW/MIA Matters [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-007, POW/MIA Matters [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-004, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [22].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-008, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-006, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32008-006, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-006, Persian Gulf War (Operation DESERT STORM/SHIELD) [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-004, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32007-002, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32006-004, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32006-003, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32006-002, Organizational Issues-DoD Internal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32005-008, Nuclear Weapons [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32005-001, Legislative Issues [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-003, Budget [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-010, Base Closures/Realignments [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-003, Arms Control-CFE/MBFR [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-005, Advisory Committees-Defense Policy Board.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-003, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-009, Technology Security [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-004, Strategic Planning-Defense [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-009, Special Operations.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-007, Space Issues [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-004, Space Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-002, Programs-Military Services [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-009, Programs-Military Services [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-004, Programs-Military Services [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31985-008, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31985-002, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-008, Office of Management and Budget.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-005, Nuclear Weapons [B] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-007, Nuclear Weapons [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31981-004, Legal Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-006, Health Affairs [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-004, Freedom of Navigation Program [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-003, Freedom of Navigation Program [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-005, Force Management and Personnel-Other Issues [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-004, Force Management and Personnel-General/Flag Officer Reduction.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-003, Espionage.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-002, Environment.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31976-004, Defense Management-Reform [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31976-003, Defense Management-Initiatives [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-008, Construction Freeze [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-006, Construction Freeze [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-007, Chemical and Biological Weapons Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-002, Budget [D] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-005, Budget [C] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-003, Budget [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-002, Budget [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-004, Budget [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-002, Base Closures/Realignments [D].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-008, Base Closures/Realignments [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-004, Base Closures/Realignments [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-002, Arms Control-Verification Issues.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-001, Budget [D] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-007, Budget [C] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-006, Budget [C] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-007, Budget [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-003, Base Negotiations (Overseas).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-006, Base Closures/Realignments [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-003, Base Closures/Realignments [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31967-007, Arms Control-START/SALT [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-010, Advisory Committees-RFPB [Reserve Forces Policy Board].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-008, Advisory Committees-Defense Policy Board [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-007, Advisory Committees-Defense Policy Board [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-001, ABM Treaty.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31962-001, Nuclear Weapons [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31961-002, Legal Issues [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-002, Health Affairs [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-006, Force Management and Personnel-Other Issues [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-007, Defense Planning and Resources Board [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-003, Defense Management Report [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-002, Defense Management Report [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-002, Counternarcotics [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-013, Women in the Armed Service.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-009, Special Operations.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-004, Public Affairs [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31964-002, Programs-Military Services [C] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31963-006, Programs-Military Services [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31962-007, POW/MIA.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31962-004, Nuclear Weapons [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31961-007, Legislative Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-006, Industrial Base.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31960-004, ICBM Modernization [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-005, Force Management and Personnel-Other Issues [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-003, Espionage Cases.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-009, Domestic Assistance-Alaskan Oil Spill [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-008, Domestic Assistance.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-005, Defense Management Report [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-004, Defense Management Report [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31955-005, Congress Testimony [C] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31955-001, Congress Testimony [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-004, Chemical and Biological Warfare Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-002, Budget [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-002, Arms Control-START [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31951-005, Arms Control-Defense and Space Treaty.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31950-007, Advisory Committees-Defense Policy Board.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31950-006, Advisory Committees-Aeronautical & Astronautical Coordinating Board.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-006, Strategic Planning-National [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-002, Strategic Defense Initiative (SDI) [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-002, Space Issues [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-003, Programs-Military Services [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-011, POW/MIA Matters [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-010, POW/MIA Matters [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-003, Persian Gulf War (Operation Desert Shield/Storm) [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-005, Nuclear Weapons [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-010, Legislative Issues [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-009, Humanitarian Missions [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-005, Health Affairs [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-003, Health Affairs [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-010, Espionage Cases.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-009, Domestic Assistance [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-008, Domestic Assistance [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-001, Defense Management Reform [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-007, Contingency Operations.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-005, CINC Reports/Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-009, Chemical and Biological Warfare Issues [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-005, Chemical and Biological Warfare Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-004, Budget [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-009, Budget [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-005, Base Closure/Realignment [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-004, Base Closure/Realignment [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-001, Active/Reserve Mix [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-004, Acquisition [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-004, Technology Transfer [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-010, Strategic Planning-National [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-009, Strategic Planning-National [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-004, Programs-Military Services [B] [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-009, Programs-Military Services [B] [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-006, Programs-Military Services [B] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-003, Programs-Military Services [B] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-002, Programs-Military Services [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-003, Legal Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-001, Intelligence Matters.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-007, Inspector General Reports [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-006, Inspector General Reports [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-003, ICBM Modernization.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-007, Force Management and Personnel-Other Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-001, Counternarcotics Operations [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-001, Construction Freeze [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-001, Programs-Military Services [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-008, Programs-Military Services [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-007, Programs-Military Services [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31985-001, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-004, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-009, Organizational Issues-DoD Internal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-003, Nuclear Weapons [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31981-008, Legislative Issues [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31981-007, Legislative Issues [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31981-002, Legal Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31981-001, Legal Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-011, Intelligence Matters [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-007, Inspector General Reports [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-006, Inspector General Reports [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-004, Inspector General Reports [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-003, Industrial Base.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-007, Health Affairs [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31977-006, Defense Management-Report [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31977-002, Defense Management-Report [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31976-001, Current Operations Materials from Chairman, JCS.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31977-005, Defense Management-Report [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-008, Counternarcotics Operations [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-003, Counternarcotics Operations [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-009, Construction Freeze [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-002, Commerce Department.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-004, Burdensharing.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31972-003, Budget [F] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-008, Budget [E] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-008, Budget [C] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-006, Budget [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-001, Base Closures/Realignments [C] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31968-010, Base Closures/Realignments [C] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31967-009, Arms Control-START/SALT [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31967-005, Arms Control-Defense and Space Talks.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31967-003, Arms Control-CFE/MBFR [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31967-001, Annual Report to the President and the Congress.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-009, Threshold Test Ban Treaty (TTBT).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-008, Terrorism [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-006, Technology Transfer.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31962-006, Office of Management and Budget.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-004, Force Management and Personnel-General/Flag Officer Reductions.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-001, Domestic Assistance-Alaskan Oil Spill [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31958-006, Defense Planning and Resources Board [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-003, Counternarcotics [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31955-004, Congress Testimony [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31955-003, Congress Testimony [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-006, Commerce Department.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-002, Burdensharing.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-001, Budget [C] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-005, Base Closures/Realignments [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-004, Base Closures/Realignments [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31951-007, Arms Control-START [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31950-008, Advisory Committees-Defense Resources Board.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31950-002, Acquisition [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-009, Technology Transfer/Security [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-004, Space Issues [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-001, Space Issues [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-008, Programs-Military Services [A] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-007, Programs-Military Services [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-002, Programs-Military Services [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-005, POW/MIA Matters [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-002, Persian Gulf War (Operation Desert Shield/Storm) [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-009, Persian Gulf War (Operation Desert Shield/Storm) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-002, Nuclear Proliferation [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-009, Legislative Issues [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-006, Legal Issues [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-006, Inspector General Reports [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-005, Inspector General Reports [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32027-001, Industrial Base [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-006, Health Affairs [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-009, Force Management and Personnel-Reshaping the Force [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-006, Force Management and Personnel-Reshaping the Force [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32025-005, Force Management and Personnel-Reshaping the Force [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-004, Defense Management Reform [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-003, Chemical and Biological Warfare Issues [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-008, Chemical and Biological Warfare Issues [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-004, Budget [25].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-001, Budget [22].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-003, Budget [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-003, Budget [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-002, Budget [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-006, Base Closure/Realignment [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-007, Terrorism [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-005, Technology Transfer [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-002, Technology Transfer [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-006, Strategic Defense Initiative (SDI) [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-004, Strategic Defense Initiative (SDI) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32015-001, Special Operations [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32014-001, Sealift.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-007, Public Affairs [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-003, Programs-Military Services [B] [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32013-002, Programs-Military Services [B] [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32012-008, Programs-Military Services [B] [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-007, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-001, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32006-006, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32005-002, Legislative Issues [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-004, Legal Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-009, Inspector General Reports [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-005, Inspector General Reports [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-002, Humanitarian Missions.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-005, Health Affairs [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-001, Environment [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-004, Counternarcotics Operations [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-003, Counternarcotics Operations [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-009, Contingency Operations-Panama-Operation JUST CAUSE/PROMOTE LIBERTY.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-005, Construction Freeze [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-004, Construction Freeze [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-007, CINC Reports [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-005, Chemical and Biological Warfare Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-003, Chemical and Biological Warfare Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-002, CENTCOM.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-009, Budget [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-002, Budget [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-007, Base Closures/Realignments [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-006, Base Closures/Realignments [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-003, Base Closures/Realignments [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-012, Base Closures/Realignments [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-004, Arms Control-CFE/MBFR [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-002, Anti-Ballistic Missile (ABM) Treaty.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-008, Advisory Committees-Defense Sciences Board [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-006, Advisory Committees-Defense Sciences Board [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31992-006, Acquisition [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31992-003, Acquisition [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-006, Women in the Armed Forces.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-001, Technology Transfer.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-011, Technology Security [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-010, Technology Security [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-006, Public Affairs [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-005, Programs-Military Services [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-003, Programs-Military Services [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31987-002, Programs-Military Services [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31986-008, Persian Gulf War (Operation DESERT SHIELD/STORM) [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-005, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-003, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-002, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-007, Counternarcotics Operations [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-007, Construction Freeze [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-004, Construction Freeze [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31972-007, Budget [G] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-007, Budget [E] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-005, Budget [E] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-004, Budget [D] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-001, Congress Testimony [C] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-007, Congress Testimony [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-007, Force Management and Personnel-Other Issues [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31959-002, Environment.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-006, Current Operations Materials from Chairman of the JCS [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-005, Current Operations Materials from Chairman of the JCS [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31955-002, Congress Testimony [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31954-005, Chemical and Biological Warfare Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-006, Budget [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31953-004, Budget [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31952-003, Arms Control-Verification Issues.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32034-004, Strategic Planning-Defense [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32033-005, Special Operations.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-010, Programs-Military Services [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32032-005, Programs-Military Services [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-008, POW/MIA Matters [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32031-001, Persian Gulf War (Operation Desert Shield/Storm) [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32030-006, Persian Gulf War (Operation Desert Shield/Storm) [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32030-004, Persian Gulf War (Operation Desert Shield/Storm) [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32030-001, Persian Gulf War (Operation Desert Shield/Storm) [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32029-004, Nuclear Weapons [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-008, Legislative Issues [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-002, Investigations-Former Secretary of Defense Weinberger (Iran-Contra) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32028-001, Intelligence Matters.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32026-008, Humanitarian Missions [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32024-006, Domestic Assistance [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-006, CINC Reports/Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-004, CINC Reports/Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32022-007, Chemical and Biological Warfare Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-006, Budget [18].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32021-005, Budget [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-010, Budget [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-009, Budget [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-007, Budget [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32020-004, Budget [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-010, Budget [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32019-007, Base Closure/Realignment [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32018-010, Arms Control-START [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-010, Active/Reserve Mix [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-007, Active/Reserve Mix [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-006, Active/Reserve Mix [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32017-002, Acquisition [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32010-002, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [20].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32009-009, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [18].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32008-009, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32008-008, Persian Gulf War (Operation DESERT STORM/SHIELD) [C] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32006-005, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32005-003, Legislative Issues [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32004-007, Legislative Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-010, Inspector General Reports [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32003-001, Humanitarian Assistance.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-008, Health Affairs [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32002-001, Foreign Military Sales.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-005, Force Management and Personnel-Other Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-004, Force Management and Personnel-Other Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-003, Espionage Cases.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32001-002, Environment [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-002, Counternarcotics Operations [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31999-008, Contingency Operations-Bangladesh-Operation SEA ANGEL.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31998-008, CINC Reports [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-003, Budget [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31997-002, Budget [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-008, Budget [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-007, Budget [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-005, Budget [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31996-004, Budget [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31995-002, Base Closures/Realignments [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31994-005, Arms Control-CFE-1A.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31993-001, Advisory Committees-Defense Policy Advisory Committee on Trade (DPACT) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31992-005, Acquisition [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-008, Technology Security [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31990-002, Strategic Defense Initiative (SDI) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-003, Space Issues [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31989-001, Space Issues [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31988-008, Public Statements-[Moved to Research Room].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31984-001, Persian Gulf War (Operation DESERT SHIELD/STORM) [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-006, Nuclear Weapons [B] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31983-001, Nuclear Weapons [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-004, Legislative Issues [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-003, Legislative Issues [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31982-001, Legislative Issues [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31980-009, Inspector General Reports [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-009, Hiring Freeze (Civilian) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31979-001, Foreign Military Sales [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-011, Force Management and Personnel-Reshaping the Force [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31978-006, Force Management and Personnel-Other Issues [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31976-002, Defense Management-Initiatives [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-009, Counternarcotics Operations [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-002, Contingency Operations-Panama-Operation JUST CAUSE/PROMOTE LIBERTY [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-003, Construction Freeze [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31974-001, CINC Reports.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-008, Chemical and Biological Weapons Issues [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31973-005, CENTCOM [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31972-006, Budget [G] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31972-004, Budget [F] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31972-001, Budget [F] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31971-003, Budget [D] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31970-004, Budget [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31969-005, Budget [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31967-002, Arms Control-CFE/MBFR [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31966-004, Active/Reserve Mix.
+
+## Meetings Files
+
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-005, Meetings-White House [May 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-001, Meetings-White House [January-February 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-008, Meetings with Secretary of State/State [April 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31931-009, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [November 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-008, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [August 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-005, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [July 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31929-008, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [June 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-002, Meetings with APNSA/NSC [January 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-002, White House Meetings [August 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-004, Meetings with Secretary of State/State [February 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-009, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [October 1991] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-005, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [October 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-009, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [August 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31920-006, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-010, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [February 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-006, Meetings with APNSA/NSC [June 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-005, Meetings with APNSA/NSC [May 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-009, White House Meetings [June-December 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-008, White House Meetings [May 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-004, Meetings with Secretary of State/State [June 1990] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-010, Meetings with Secretary of State/State [May 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-007, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [November 1990] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-001, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [August 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-009, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [February 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-008, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [January 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-005, Meetings with APNSA/NSC [December 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-004, Meetings with APNSA/NSC [November 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-005, Meetings with APNSA/NSC [July 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-008, Meetings with APNSA/NSC [May 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-005, Meetings with APNSA/NSC [April 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-002, Meetings with APNSA/NSC [February 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-005, Meetings with APNSA/NSC [January 1990] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-003, Meetings with APNSA/NSC [January 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-012, White House Meetings [November-December 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-008, White House Meetings [June 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-001, Meetings with Secretary of State/State [December 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-009, Meetings with Secretary of State/State [October 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-003, Meetings with Secretary of State/State [June 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-009, Meetings with DCI/CIA.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31905-002, Meetings with APNSA/NSC [June 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31904-003, Meetings with APNSA/NSC [May 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31904-002, Meetings with APNSA/NSC [May 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-012, Meetings with APNSA/NSC [April 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-007, Diplomatic Meetings [December 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-006, Diplomatic Meetings [November 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-008, Meetings-White House [November 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-002, Meetings-White House [March-April 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31931-004, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [October 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-003, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [June 1992] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-002, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [June 1992] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31929-004, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [May 1992] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31929-001, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [May 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31928-006, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [April 1992] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-001, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [January 1992] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-005, Meetings with APNSA/NSC [April 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-010, White House Meetings [June 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-007, Meetings with Secretary of State/State [June 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-006, Meetings with Secretary of State/State [May 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-003, Meetings with Secretary of State/State [January 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-003, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [September 1991] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-006, Meetings-White House [June-July 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-001, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [December 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31931-005, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [October 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31931-003, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [September 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-007, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [July 1992] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-006, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [July 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31929-007, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [June 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31929-005, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [May 1992] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31928-001, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [March 1992] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-006, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [March 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-004, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [March 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31928-003, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [April 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-005, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [March 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-010, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [January 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-009, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [January 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-001, Meetings with APNSA/NSC [January 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-005, White House Meetings [October 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-005, White House Meetings [January 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-008, Meetings with Secretary of State/State [July-September 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-007, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [October 1991] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-002, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [September 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31920-008, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-007, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [April 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-008, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [January 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-006, Meetings with APNSA/NSC [December 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-009, Meetings with APNSA/NSC [July 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-005, White House Meetings [March 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-003, Meetings with Secretary of State/State [June 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-006, Meetings with Secretary of State/State [April 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-004, Meetings with Secretary of State/State [February 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-003, Meetings with Secretary of State/State [January 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-001, Meetings with Secretary of State/State [January 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-009, Meetings with Members of Congress.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-004, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [November 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-007, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [January 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-010, Meetings with APNSA/NSC [September 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-006, Meetings with APNSA/NSC [August 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-004, Meetings with APNSA/NSC [July 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-006, Meetings with APNSA/NSC [April 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-002, Meetings with APNSA/NSC [January 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-011, White House Meetings [September-October 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-009, White House Meetings [June 1989] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-006, Meetings with Secretary of State/State [August 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-008, Meetings with APNSA/NSC [December 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-004, Meetings with APNSA/NSC [September 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-003, Meetings with APNSA/NSC [September 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31905-001, Meetings with APNSA/NSC [June 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-011, Meetings with APNSA/NSC [April 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-010, Diplomatic Meetings [September 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-008, Diplomatic Meetings [August 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-011, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [January 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-006, Meetings with APNSA/NSC [May 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-006, White House Meetings [November 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-004, White House Meetings [September 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-009, White House Meetings [June 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-007, White House Meetings [March 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-006, White House Meetings [February 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-003, SecDef Staff Meetings.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-002, Meetings with Secretary of State/State [November-December 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-005, Meetings with Secretary of State/State [March 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-008, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [October 1991] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-004, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [September 1991] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-005, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31920-003, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [May 1991] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-010, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [April 1991] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-003, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [March 1991] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-007, White House Meetings [April 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-004, White House Meetings [January 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-001, Meetings with Secretary of State/State [November 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-005, Meetings with Secretary of State/State [July 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-009, Meetings with APNSA/NSC [August 1990] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-002, Meetings with APNSA/NSC [June 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-004, Meetings with APNSA/NSC [March 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-008, Meetings with APNSA/NSC [January 1990] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-007, Meetings with APNSA/NSC [January 1990] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-006, Meetings with APNSA/NSC [January 1990] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-005, White House Meetings [March 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-008, Meetings with Secretary of State/State [September 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-001, Meetings with Secretary of State/State [March 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-005, Meetings with APNSA/NSC [September 1989] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-009, Meetings-White House [December 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-004, Meetings-White House [May 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31933-003, Meetings-White House [May 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-007, Meetings with Secretary of State/State [March 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-006, Meetings with Secretary of State/State [February 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31931-008, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [November 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31929-003, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [May 1992] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31928-005, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [April 1992] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-008, Meetings with APNSA/NSC [December 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-007, Meetings with APNSA/NSC [July-October 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-004, Meetings with APNSA/NSC [March 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31926-003, Meetings with APNSA/NSC [January 1992] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-007, White House Meetings [December 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-011, White House Meetings [June 1991] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-004, Summits-Moscow.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-009, Meetings with Secretary of State/State [October 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-006, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [October 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-007, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [July 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-001, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31920-007, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-008, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [April 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-004, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [March 1991] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-009, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [February 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-005, Meetings with APNSA/NSC [November 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-004, Meetings with APNSA/NSC [March-April 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-001, Meetings with APNSA/NSC [January 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-006, White House Meetings [March 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-003, White House Meetings [January 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-011, Meetings with Secretary of State/State [October 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-010, Meetings with Secretary of State/State [October 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-008, Meetings with Secretary of State/State [August 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-007, Meetings with Secretary of State/State [July 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-009, Meetings with Secretary of State/State [April 1990] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-008, Meetings with Secretary of State/State [April 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-007, Meetings with Secretary of State/State [April 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-002, Meetings with Secretary of State/State [January 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-005, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [November 1990] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-002, Meetings with APNSA/NSC [September 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-003, Meetings with APNSA/NSC [July 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-001, Meetings with APNSA/NSC [February 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-004, Meetings with APNSA/NSC [January 1990] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31909-001, Meetings with APNSA/NSC [January 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-004, Meetings with Secretary of State/State [June 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-006, Meetings with APNSA/NSC [October 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-002, Meetings with APNSA/NSC [August 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31905-008, Meetings with APNSA/NSC [July 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31905-007, Meetings with APNSA/NSC [June 1989] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31904-006, Meetings with APNSA/NSC [May 1989] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-003, Diplomatic Meetings [October 1989] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-004, Diplomatic Meetings [July 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-003, Diplomatic Meetings [June 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-009, Meetings with Secretary of State/State [May 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-004, Meetings with Secretary of State/State [January 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31932-002, Meetings with Members of Congress [January-March 1992].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31931-001, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [September 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-004, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [July 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31930-001, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [June 1992] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31928-007, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [May 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31928-002, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [April 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-007, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [March 1992] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-003, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [February 1992] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31927-002, Meetings with Heads of State, Heads of Government, Foreign Minister, and Other Senior Non-DoD Officials [February 1992] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-003, White House Meetings [September 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31925-001, White House Meetings [July 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-008, White House Meetings [May 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31924-001, Meetings with Secretary of State/State [October 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-002, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [December 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31923-001, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [November 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31922-001, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [September 1991] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-008, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [July 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-006, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-004, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-003, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31921-002, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [June 1991] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31920-004, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [May 1991] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-006, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [March 1991] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-005, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [March 1991] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31919-002, Meetings with Heads of State, Heads of Government, Foreign Ministers, and Other Senior Non-DoD Officials [March 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-007, Meetings with DCI/CIA.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31918-002, Meetings with APNSA/NSC [September 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-007, Meetings with APNSA/NSC [June 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-003, Meetings with APNSA/NSC [February 1991].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31917-002, Meetings with APNSA/NSC [January 1991] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31916-002, SecDef Staff Meetings.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31915-001, Meetings with Secretary of State/State [June 1990] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31914-005, Meetings with Secretary of State/State [March 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-008, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [December 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-006, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [November 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31913-003, Meetings with Heads of State, Heads of Government, Foreign Ministers & Other Non-Defense Officials [October 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-006, Meetings with DCI/CIA.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31912-003, Meetings with APNSA/NSC [October 1990].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31911-008, Meetings with APNSA/NSC [August 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-007, Meetings with APNSA/NSC [April 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31910-003, Meetings with APNSA/NSC [February 1990] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-010, White House Meetings [July 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31908-003, Summits, Helsinki.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-007, Meetings with Secretary of State/State [September 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31907-005, Meetings with Secretary of State/State [July 1989].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31906-001, Meetings with APNSA/NSC [August 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31904-004, Meetings with APNSA/NSC [May 1989] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-009, Meetings with APNSA/NSC [March 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-005, Diplomatic Meetings [October 1989] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-004, Diplomatic Meetings [October 1989] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31903-002, Diplomatic Meetings [October 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-009, Diplomatic Meetings [September 1989] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-006, Diplomatic Meetings [July 1989] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-005, Diplomatic Meetings [July 1989] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Meetings Files, OA/ID 31902-001, Diplomatic Meetings [April 1989].
+
+## Country Files
+
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-007, Yugoslavia [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-005, Yugoslavia [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-007, Yugoslavia [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-005, Vietnam [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-004, Vietnam [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31857-004, United Arab Emirates (UAE).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31857-001, Union of Soviet Socialist Republics (USSR) [A] [25].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31856-007, Union of Soviet Socialist Republics (USSR) [A] [23].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31855-001, Union of Soviet Socialist Republics (USSR) [A] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31854-004, Union of Soviet Socialist Republics (USSR) [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31854-003, Union of Soviet Socialist Republics (USSR) [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-011, Sweden [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-010, Sweden [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-008, Somalia [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-013, Saudi Arabia [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-012, Saudi Arabia [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-004, Philippines.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31850-009, Oman.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-006, Middle East [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-003, Malaysia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-001, Haiti [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-006, Finland [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-008, Colombia [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-009, Bangladesh.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-008, Bahrain.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-007, Austria.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-006, Australia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-005, Argentina [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-008, Yugoslavia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-001, United Arab Emirates (UAE).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31840-006, Union of Soviet Socialist Republics (USSR) [C] [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31840-003, Union of Soviet Socialist Republics (USSR) [C] [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-009, Union of Soviet Socialist Republics (USSR) [C] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-008, Union of Soviet Socialist Republics (USSR) [C] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-006, Union of Soviet Socialist Republics (USSR) [C] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-003, Tunisia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-010, Philippines.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-008, Persian Gulf.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-006, Pakistan [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-003, Okinawa.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-014, Switzerland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-010, South Africa.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-009, Somalia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-008, Singapore.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-006, Senegal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-012, Portugal [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-007, Panama.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31835-010, Nicaragua.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31835-008, Netherlands.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31835-006, NATO [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-010, NATO [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-004, Middle East.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-003, Luxembourg.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-012, Kuwait [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-005, Iraq [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-002, India [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31829-003, Ecuador.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31829-002, Djibouti.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-007, Czechoslovakia [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-013, Chile.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-001, South Korea [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-012, Somalia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-011, Singapore.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-007, Romania.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-008, Philippines [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-011, Okinawa.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-006, New Zealand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-005, Netherlands.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-003, NATO [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-015, Namibia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-012, Mexico.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-010, Malaysia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-004, Korea.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-009, Japan [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-005, Japan [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-003, Italy [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-010, Israel [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-005, Indonesia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-001, Haiti.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-005, Germany (Democratic Republic).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-002, France [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-007, Colombia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-001, Cambodia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-014, Brunei.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-001, USSR [B] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-009, USSR [B] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-008, USSR [B] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-007, USSR [B] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-005, USSR [B] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-003, Tunisia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-015, Switzerland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-014, Sweden.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-011, Somalia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-006, Portugal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-010, Panama [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-007, Pakistan [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-006, Norway.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31805-006, NATO [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31805-003, NATO [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31805-001, NATO [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31803-001, Italy [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-012, Israel [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-011, Iraq.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-006, Hungary.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-003, Guam.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-002, Greenland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-007, Finland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-005, El Salvador.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-002, Egypt [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-008, Yugoslavia [19].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-006, Yugoslavia [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-003, Yugoslavia [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-002, Yugoslavia [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-008, Yugoslavia [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-004, Yugoslavia [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-002, Yugoslavia [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-008, Yugoslavia [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-003, Venezuela.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31857-008, United Kingdom [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31855-006, Union of Soviet Socialist Republics (USSR) [A] [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-007, Jordan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31847-010, Israel [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-008, Haiti [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-005, Haiti [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-004, Haiti [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-003, Germany [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-001, Germany [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-005, Finland [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-012, Denmark.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-009, Cuba.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-002, Cambodia [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-013, Brazil.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-010, Belgium.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-001, Albania.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-004, Union of Soviet Socialist Republics (USSR) [C] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-008, Union of Soviet Socialist Republics (USSR) [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-004, Turkey [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-004, Saudi Arabia [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-001, Qatar.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31835-002, NATO [A] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-012, NATO [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-002, Lebanon.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-009, Kuwait [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-011, Italy [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-006, Czechoslovakia [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-003, Costa Rica.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-005, Argentina [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-004, Argentina [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-008, Venezuela.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31824-006, USSR [A] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31824-005, USSR [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31823-010, USSR [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31823-009, USSR [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-013, Trinidad.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-004, South Korea [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31823-001, Turkey [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-006, Spain [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-010, Saudi Arabia [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-009, Saudi Arabia [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-008, Saudi Arabia [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-012, Philippines [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-007, Peru.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-001, Pakistan [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-012, Oman.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-010, Norway [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-001, NATO [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31818-010, NATO [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31818-008, NATO [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-014, Morocco.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-009, Libya.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-005, Kuwait.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-007, Japan [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-006, Japan [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-003, Hungary.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-013, Guatemala.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-017, Colombia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-016, China.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-014, Central America.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-010, Brazil [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-006, Australia [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-004, Argentina.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-002, Africa.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31850-001, NATO [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-015, NATO [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-012, Kuwait.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-011, Korea (South) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31847-008, Iraq [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-007, Haiti [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-009, Guam.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-008, Greece [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-007, Greece [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-006, Germany [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-004, Germany [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-008, France [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-007, France [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-003, Ethiopia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-002, El Salvador.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-004, United Kingdom [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31840-008, Union of Soviet Socialist Republics (USSR) [C] [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-007, Union of Soviet Socialist Republics (USSR) [C] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-011, Union of Soviet Socialist Republics (USSR) [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-008, Bahrain.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31830-003, France [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31829-004, Egypt [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-010, Czechoslovakia [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-008, Czechoslovakia [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-005, Czechoslovakia [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31828-001, China.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-011, Canada.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-009, Belgium.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-007, Austria.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-003, Angola.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-002, Africa.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-011, Yemen [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-009, Viet Nam.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-006, USSR [A] [24].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-001, USSR [A] [19].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31825-001, USSR [A] [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31824-002, USSR [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31823-005, United Arab Emirates (UAE).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-010, Taiwan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-011, Philippines [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-009, Germany (Federal Republic) [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-006, Germany (Federal Republic) [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-010, Cuba [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-009, Cuba [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-002, Canada.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-010, USSR [B] [18].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-003, USSR [B] [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-006, USSR [B] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-004, USSR [B] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-002, USSR [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-013, Spain.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-005, Poland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-001, Netherlands [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31805-004, NATO [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31803-004, Japan [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-014, Israel [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-013, Israel [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-008, France.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-004, Egypt 3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-018, Cuba [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-005, Yugoslavia [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-003, Yugoslavia [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-002, United Kingdom [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31857-002, Union of Soviet Socialist Republics (USSR) [A] [26].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31856-008, Union of Soviet Socialist Republics (USSR) [A] [24].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31856-005, Union of Soviet Socialist Republics (USSR) [A] [21].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31854-007, Union of Soviet Socialist Republics (USSR) [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31854-006, Union of Soviet Socialist Republics (USSR) [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31854-001, Union of Soviet Socialist Republics (USSR) [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31853-007, Turkey [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-005, Singapore [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-001, Senegal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-011, Romania.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-007, Poland [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-005, Poland [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31850-010, Pakistan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-008, Morocco.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-007, Middle East [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-004, Marshall Islands.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-002, Lithuania.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-008, Korea (North) [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-004, Japan [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-002, Italy [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31847-007, Iraq [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31847-003, Indonesia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-011, Hungary [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31846-006, Haiti [A] [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-010, Guatemala.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-004, Finland [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-011, Czechoslovakia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-005, Chile [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-004, Chile [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-004, Argentina [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-009, Zaire.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-007, Vietnam.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-006, United Kingdom [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31840-002, Union of Soviet Socialist Republics (USSR) [C] [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-005, Union of Soviet Socialist Republics (USSR) [C] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-013, Sweden.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-007, Sierra Leone.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-005, Saudi Arabia [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-004, Oman.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-002, Norway.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31835-009, New Zealand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-012, Italy [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-006, Iraq [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-004, Iran.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-001, India [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-012, Hungary [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-010, Hungary [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-009, Hungary [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-008, Haiti [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-005, Guatemala.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-004, Guam.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31824-003, USSR [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31823-002, Turkey [B] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-009, Syria.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-008, Switzerland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-007, Sweden.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-003, South Korea [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31822-002, South Korea [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-005, Portugal [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31821-003, Poland [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-006, Paraguay.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-003, Panama [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-009, Norway [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31819-007, Nicaragua.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31818-007, NATO [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-003, Jordan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-011, Israel [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-009, Israel [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-007, Iraq [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-006, Iran.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-004, India.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-012, Guam.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-011, Greece [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-008, Germany (Federal Republic) [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-007, Germany (Federal Republic) [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-003, France [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-016, El Salvador [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-008, Costa Rica.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-004, Chad.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-003, Central America.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-012, Bolivia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-004, Argentina.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-001, Afghanistan [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-009, USSR [B] [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-011, United Kingdom [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-009, United Kingdom [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-005, United Arab Emirates.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-004, Turkey.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-012, South Africa.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-007, Puerto Rico.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-008, Pakistan [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-010, Iran.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-007, India [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-004, Guatemala.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-003, Egypt [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-011, Brazil [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-005, Australia [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-009, Zimbabwe.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31860-004, Yugoslavia [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31859-001, Yugoslavia [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31858-006, Yugoslavia [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31857-007, United Kingdom [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31857-005, United Kingdom [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31856-004, Union of Soviet Socialist Republics (USSR) [A] [20].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31856-003, Union of Soviet Socialist Republics (USSR) [A] [19].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31855-008, Union of Soviet Socialist Republics (USSR) [A] [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31855-007, Union of Soviet Socialist Republics (USSR) [A] [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31855-003, Union of Soviet Socialist Republics (USSR) [A] [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31854-008, Union of Soviet Socialist Republics (USSR) [A] [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31853-006, Turkey [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31853-002, Thailand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31855-004, Union of Soviet Socialist Republics (USSR) [A] [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31853-009, Turkey [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31853-004, Turkey [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31853-003, Tunisia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-008, Portugal.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31850-005, New Zealand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31850-004, Netherlands.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31850-003, NATO [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-010, Namibia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-009, Mozambique.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-001, Laos.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-005, Japan [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31848-003, Jamaica.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31847-002, India [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31845-005, Germany [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-010, France [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31844-009, France [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31843-001, Cambodia [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-012, Botswana.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-003, Antigua.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31842-002, Angola.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31841-005, United Kingdom [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31840-005, Union of Soviet Socialist Republics (USSR) [C] [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31839-001, Union of Soviet Socialist Republics (USSR) [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-005, Turkey [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-001, Taiwan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-003, Saudi Arabia [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31835-001, NATO [A] [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-011, NATO [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-007, NATO [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-001, Laos.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-008, Korea (South) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-002, Japan [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-010, Israel [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-009, Israel [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-008, Israel [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-003, Indonesia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-007, Haiti [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-003, Greece [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31830-008, Germany (Federal Republic) [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31830-004, Germany (Federal Republic) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31829-012, Finland [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31829-009, Ethiopia [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-012, Chad.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31827-001, Afghanistan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-013, Zaire.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-012, Yugoslavia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31826-004, USSR [A] [22].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31825-002, USSR [A] [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31824-007, USSR [A] [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31818-001, NATO [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-017, NATO [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-008, Liberia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-006, Latin America.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-001, Japan [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-010, Greece [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-014, Egypt [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-013, Egypt [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-013, Brazil.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-005, Asia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31811-004, Zaire.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31811-003, Yugoslavia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31811-002, Virgin Islands.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-008, USSR [B] [16].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-007, USSR [B] [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-001, USSR [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-007, United Kingdom [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-006, United Kingdom [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-001, Taiwan.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-009, Saudi Arabia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-008, Qatar.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-011, Panama [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-005, Nicaragua.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-002, Netherlands [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31805-005, NATO [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-007, NATO [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-004, Libya.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-003, Kuwait.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-001, Korea [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31803-003, Italy [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31803-002, Italy [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-005, Honduras.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-001, Greece.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-012, Germany (Federal Republic) [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-010, Germany (Federal Republic) [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-012, Cambodia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-008, Belgium.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-003, Angola.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-009, Spain.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31852-004, Singapore [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-006, Poland [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31851-003, Peru [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-013, NATO [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-012, NATO [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-011, NATO [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31849-005, Mexico.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-009, Union of Soviet Socialist Republics (USSR) [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-007, Union of Soviet Socialist Republics (USSR) [A] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-006, Union of Soviet Socialist Republics (USSR) [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31838-002, Thailand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-012, Spain.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-011, South America.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31837-002, Romania.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-013, Portugal [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-011, Poland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-009, Peru.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-005, Pakistan [A].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31836-001, Nigeria.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31834-009, NATO [A] [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-007, Korea (South) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-006, Korea (North).
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31833-003, Japan [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-006, Haiti [A] [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-001, Greece [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31830-009, Germany (Federal Republic) [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31830-006, Germany (Federal Republic) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31832-007, Iraq [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-011, Hungary [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31831-002, Greece [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-010, Philippines [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31820-005, Panama [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31818-009, NATO [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31817-016, NATO [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-008, Japan [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-004, Japan [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31816-002, Italy [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-012, Israel [A] [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-008, Iraq [B].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31815-002, Honduras.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-004, France [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31814-001, Finland.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-017, Ethiopia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-012, Denmark.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-011, Czechoslovakia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-006, China.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31813-005, Chile.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-011, Belgium.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31812-009, Austria.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-006, USSR [B] [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-005, USSR [B] [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31810-002, USSR [B] [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31809-003, USSR [B] [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-010, United Kingdom [A] [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31808-002, Thailand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31807-001, Papua New Guinea.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31806-004, New Zealand.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31805-009, NATO [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-009, NATO [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-006, NATO [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31804-002, Korea [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31803-005, Japan [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31802-009, Indonesia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-013, Germany (Federal Republic) [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-011, Germany (Federal Republic) [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-009, Germany (Federal Republic) [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-006, Ethiopia.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31801-001, Denmark.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-015, Chile.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-013, Canada.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Country Files, OA/ID 31800-001, Afghanistan.
+
+## Correspondence Files
+
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-007, Congress, Communication with-Testimony [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-010, SecDef Signers Copies 1-31 December 1991 [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-005, SecDef Signers Copies 1-31 December 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-008, SecDef Signers Copies 1-30 November 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-006, SecDef Signers Copies 1-30 September 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-005, SecDef Signers Copies 1-30 September 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31895-008, SecDef Signers Copies 1-31 August 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31895-007, SecDef Signers Copies 1-31 August 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-008, SecDef Signers Copies 1-16 July 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-005, SecDef Signers Copies 15-30 June 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31891-005, SecDef Signers Copies 16-31 March 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31891-003, SecDef Signers Copies 16-31 March 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31891-001, SecDef Signers Copies 16-31 March 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31890-010, SecDef Signers Copies 1-15 March 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31890-009, SecDef Signers Copies 1-15 March 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-008, Congress, Communication with-Testimony [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-007, Congress, Communication with-Testimony [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-003, Congress, Communication with-Testimony [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-005, Congress, Communication with-"October Surprise".
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-008, SecDef Signers Copies 15-30 July 1990 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-005, SecDef Signers Copies 15-30 July 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31883-007, SecDef Signers Copies 16-30 June 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31883-006, SecDef Signers Copies 1-15 June 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31883-005, SecDef Signers Copies 1-15 June 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-005, SecDef Signers Copies 1-15 April 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-004, SecDef Signers Copies 16-31 March 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-004, Congress-Correspondence with-Testimony [31].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31876-006, Congress-Correspondence with-Testimony [18].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31876-002, Congress-Correspondence with-Testimony [14].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31875-005, Congress-Correspondence with-Testimony [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31874-005, Congress-Correspondence with-Testimony [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31874-004, Congress-Correspondence with Member.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31873-006, SecDef Signers Copies 1-31 December 1989 [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31873-002, SecDef Signers Copies 1-31 December 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31872-005, SecDef Signers Copies 1-30 November 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31871-006, SecDef Signers Copies 1-31 October 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31871-005, SecDef Signers Copies 1-31 October 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31871-003, SecDef Signers Copies 1-30 September 1989 [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31871-002, SecDef Signers Copies 1-30 September 1989 [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31871-001, SecDef Signers Copies 1-30 September 1989 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31869-004, SecDef Signers Copies 1-10 August 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31867-007, SecDef Signers Copies 20-30 June 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-005, SecDef Signers Copies 12-31 May 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-003, SecDef Signers Copies 1-11 May 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-001, SecDef Signers Copies 1-11 May 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-001, SecDef Signers Copies February-March 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-008, Correspondence w/President on Presidential Appointments [23].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-005, Correspondence w/President on Presidential Appointments [20].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-002, Correspondence w/President on Presidential Appointments [17].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-007, Correspondence w/President on Presidential Appointments [13].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-005, Correspondence w/President on Presidential Appointments [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-002, Correspondence w/President on Presidential Appointments [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-008, Correspondence w/President on Presidential Appointments [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-004, Congress, Communication with-Members [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-009, SecDef Signers Copies 1-31 December 1991 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-007, SecDef Signers Copies 1-31 December 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-006, SecDef Signers Copies 1-31 December 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-003, SecDef Signers Copies 1-31 October 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-001, SecDef Signers Copies 1-31 October 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31895-006, SecDef Signers Copies 17-31 July 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-007, SecDef Signers Copies 1-30 November 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-005, SecDef Signers Copies 1-31 October 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-004, SecDef Signers Copies 1-31 October 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-009, SecDef Signers Copies 1-16 July 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-007, SecDef Signers Copies 1-16 July 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-006, SecDef Signers Copies 15-30 June 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-002, SecDef Signers Copies 15-30 June 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31893-008, SecDef Signers Copies 1-14 June 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31892-008, SecDef Signers Copies 1-15 May 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31891-007, SecDef Signers Copies 1-15 April 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31890-006, SecDef Signers Copies 1-28 February 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-009, Congress, Communication with-Testimony [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-009, SecDef Signers Copies 1-31 December 1990 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-004, SecDef Signers Copies 1-31 November 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-001, SecDef Signers Copies 1-31 November 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31886-008, SecDef Signers Copies 1-31 October 1990 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31886-005, SecDef Signers Copies 1-31 October 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31886-003, SecDef Signers Copies 1-31 October 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31883-008, SecDef Signers Copies 16-30 June 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-004, SecDef Signers Copies 1-15 May 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31874-006, Congress-Correspondence with-Testimony [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31874-003, Bush, George, President, Correspondence with [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31872-008, SecDef Signers Copies 1-31 December 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31872-002, SecDef Signers Copies 1-30 November 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-009, SecDef Signers Copies 1-30 September 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31869-003, SecDef Signers Copies 15-31 July 1989 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-008, SecDef Signers Copies 15-31 July 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-006, SecDef Signers Copies 1-15 July 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-004, SecDef Signers Copies 1-15 July 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-001, SecDef Signers Copies 20-30 June 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31867-003, SecDef Signers Copies 1-19 June 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-004, SecDef Signers Copies 12-31 May 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-002, SecDef Signers Copies 1-11 May 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-009, SecDef Signers Copies 1-11 May 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-005, SecDef Signers Copies 16-30 April 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-009, SecDef Signers Copies 1-15 April 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-007, SecDef Signers Copies 1-15 April 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-006, SecDef Signers Copies 1-15 April 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-004, SecDef Signers Copies February-March 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-002, SecDef Signers Copies February-March 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-011, Scowcroft, Brent, APNSA, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-003, Correspondence w/President on Presidential Appointments [18].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-004, Correspondence w/President on Presidential Appointments [10].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-009, Correspondence w/President on Presidential Appointments [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-003, Congress-Correspondence with Committee.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-002, Congress, Communication with-Testimony [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-001, Baker, James A., III. Secretary of State, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-008, SecDef Signers Copies 1-31 December 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31886-001, SecDef Signers Copies 1-30 September 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-001, SecDef Signers Copies 1-15 August 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-006, SecDef Signers Copies 15-30 July 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-003, SecDef Signers Copies 1-15 July 1990.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31883-001, SecDef Signers Copies 16-31 May 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-008, SecDef Signers Copies 16-31 May 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-010, SecDef Signers Copies 16-30 April 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-009, SecDef Signers Copies 16-30 April 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-007, SecDef Signers Copies 1-15 April 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31880-001, SecDef Signers Copies 1-28 February 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31879-006, SecDef Signers Copies 16-31 January 1990 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31879-004, SecDef Signers Copies 16-31 January 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31879-003, SecDef Signers Copies 16-31 January 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-009, SecDef Signers Copies 1-15 January 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-008, SecDef Signers Copies 1-15 January 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-005, Former Presidents, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-002, Congress-Correspondence with-Testimony [29].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-007, SecDef Signers Copies 15-30 July 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-002, SecDef Signers Copies 16-30 June 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31883-003, SecDef Signers Copies 1-15 June 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-009, SecDef Signers Copies 16-31 May 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-006, SecDef Signers Copies 1-15 May 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31880-009, SecDef Signers Copies 1-15 March 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31880-004, SecDef Signers Copies 1-28 February 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31880-003, SecDef Signers Copies 1-28 February 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31880-002, SecDef Signers Copies 1-28 February 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-007, SecDef Signers Copies 1-15 January 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-006, Powell, Colin, CJCS, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31877-008, Congress-Correspondence with-Testimony [27].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31877-002, Congress-Correspondence with-Testimony [21].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31876-007, Congress-Correspondence with-Testimony [19].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31875-007, Congress-Correspondence with-Testimony [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31875-004, Congress-Correspondence with-Testimony [9].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31875-003, Congress-Correspondence with-Testimony [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31874-008, Congress-Correspondence with-Testimony [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31874-001, Baker, James, SecState, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31873-003, SecDef Signers Copies 1-31 December 1989 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-007, SecDef Signers Copies 15-31 July 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-002, SecDef Signers Copies 20-30 June 1989 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-008, SecDef Signers Copies 12-31 May 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-007, SecDef Signers Copies 12-31 May 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-008, SecDef Signers Copies 16-30 April 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-004, SecDef Signers Copies 16-30 April 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-003, SecDef Signers Copies 1-15 April 1989 [8].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-008, SecDef Signers Copies 1-15 April 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-010, Former Presidents, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-006, Correspondence w/President on Presidential Appointments [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-006, Correspondence w/President on Presidential Appointments [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31900-004, Former Presidents, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-006, Congress, Communication with-Testimony [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-001, Bush, George, President, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-002, SecDef Signers Copies 1-31 October 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-003, SecDef Signers Copies 1-31 August 1991 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-002, SecDef Signers Copies 1-31 August 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31895-009, SecDef Signers Copies 1-31 August 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31895-004, SecDef Signers Copies 17-31 July 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31895-003, SecDef Signers Copies 1-16 July 1991 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31890-005, SecDef Signers Copies 1-28 February 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31890-003, SecDef Signers Copies 1-28 February 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31890-002, SecDef Signers Copies 1-31 January 1991.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-005, Congress, Communication with-Testimony [11].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-007, Congress, Communication with-Testimony [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-002, Bush, George, President, Correspondence with [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-006, SecDef Signers Copies 1-31 December 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-005, SecDef Signers Copies 1-31 December 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-002, SecDef Signers Copies 1-31 November 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-009, SecDef Signers Copies 1-30 September 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-008, SecDef Signers Copies 16-31 August 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-003, SecDef Signers Copies 1-15 August 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-005, SecDef Signers Copies 11-31 August 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31869-001, SecDef Signers Copies 15-31 July 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-005, SecDef Signers Copies 1-15 July 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31868-003, SecDef Signers Copies 1-15 July 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31866-006, SecDef Signers Copies 12-31 May 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-006, SecDef Signers Copies 16-30 April 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31865-001, SecDef Signers Copies 1-15 April 1989 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31864-005, SecDef Signers Copies 1-15 April 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-009, Correspondence w/President on Presidential Appointments [24].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-006, Correspondence w/President on Presidential Appointments [21].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-007, Correspondence w/President on Presidential Appointments [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31900-005, Scowcroft, Brent, APNSA, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31900-002, Congress, Communication with-Testimony [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-009, Congress, Communication with-Testimony [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-008, Congress, Communication with-Testimony [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-003, Congress, Communication with-Members [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-002, Congress, Communication with-Members [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-003, SecDef Signers Copies 1-15 December 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-001, Atwood, Donald J., DepSecDef, Correspondence with.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31900-003, Congress, Communication with-Testimony [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31900-001, Congress, Communication with-Testimony [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31899-005, Congress, Communication with-Members [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-008, SecDef Signers Copies 1-31 December 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-004, SecDef Signers Copies 1-31 December 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-002, SecDef Signers Copies 1-15 December 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31898-001, SecDef Signers Copies 1-15 December 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-009, SecDef Signers Copies 1-30 November 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31897-006, SecDef Signers Copies 1-31 October 1991 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-008, SecDef Signers Copies 1-30 September 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-007, SecDef Signers Copies 1-30 September 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-004, SecDef Signers Copies 1-30 September 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31896-001, SecDef Signers Copies 1-31 August 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31894-001, SecDef Signers Copies 1-14 June 1991 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31893-007, SecDef Signers Copies 1-14 June 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31893-006, SecDef Signers Copies 1-14 June 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31893-003, SecDef Signers Copies 17-31 May 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31893-002, SecDef Signers Copies 1-15 May 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31892-006, SecDef Signers Copies 16-30 April 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31892-005, SecDef Signers Copies 16-30 April 1991 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31892-003, SecDef Signers Copies 16-30 April 1991 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31891-004, SecDef Signers Copies 16-31 March 1991 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31891-002, SecDef Signers Copies 16-31 March 1991 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-009, Congress, Communication with-Testimony [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-006, Congress, Communication with-Testimony [12].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31889-001, Congress, Communication with-Testimony [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-011, Congress, Communication with-Testimony [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-010, Congress, Communication with-Testimony [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-006, Congress, Communication with-Testimony [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31888-004, Congress, Communication with-Members.
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-007, SecDef Signers Copies 1-31 December 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31887-003, SecDef Signers Copies 1-31 November 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31886-007, SecDef Signers Copies 1-31 October 1990 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31886-002, SecDef Signers Copies 1-30 September 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-007, SecDef Signers Copies 16-31 August 1990 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-006, SecDef Signers Copies 16-31 August 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31885-004, SecDef Signers Copies 1-15 August 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-009, SecDef Signers Copies 15-30 July 1990 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-004, SecDef Signers Copies 15-30 July 1990 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31884-001, SecDef Signers Copies 16-30 June 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-007, SecDef Signers Copies 1-15 May 1990 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-005, SecDef Signers Copies 1-15 May 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31882-002, SecDef Signers Copies 16-30 April 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-008, SecDef Signers Copies 1-15 April 1990 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31881-003, SecDef Signers Copies 16-31 March 1990 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31880-006, SecDef Signers Copies 1-28 February 1990 [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31878-001, Congress-Correspondence with-Testimony [28].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31877-001, Congress-Correspondence with-Testimony [20].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31873-001, SecDef Signers Copies 1-31 December 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31872-004, SecDef Signers Copies 1-30 November 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31872-003, SecDef Signers Copies 1-30 November 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31872-001, SecDef Signers Copies 1-30 November 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31871-010, SecDef Signers Copies 1-31 October 1989 [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-010, SecDef Signers Copies 1-30 September 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-006, SecDef Signers Copies 1-30 September 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-003, SecDef Signers Copies 11-31 August 1989 [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-002, SecDef Signers Copies 11-31 August 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31870-001, SecDef Signers Copies 11-31 August 1989 [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31869-008, SecDef Signers Copies 1-10 August 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31869-007, SecDef Signers Copies 1-10 August 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31869-002, SecDef Signers Copies 15-31 July 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31867-009, SecDef Signers Copies 20-30 June 1989 [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31867-005, SecDef Signers Copies 1-19 June 1989 [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31867-002, SecDef Signers Copies 1-19 June 1989 [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31863-007, Correspondence w/President on Presidential Appointments [22].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-009, Correspondence w/President on Presidential Appointments [15].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31862-001, Correspondence w/President on Presidential Appointments [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-005, Correspondence w/President on Presidential Appointments [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Correspondence Files, OA/ID 31861-002, Bush, George, President, Correspondence with.
+
+## Chronological Files
+
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-001, April [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-001, January [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-006, December [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-002, July [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-006, June [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-003, May [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-001, May [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-006, May [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-003, March [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-002, March [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-009, February [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-005, February [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-003, October [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-001, October [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-004, August [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-005, June [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-007, April [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-001, March [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-006, February [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-002, January [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-005, November [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-006, September [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-007, July [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-004, June [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-002, May [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-008, May [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-007, May [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-003, April [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-002, April [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-008, April [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-004, March [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-008, February [4].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-003, January [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-007, December [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-004, November [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31939-002, October [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-008, September [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-007, September [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-005, August [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-003, August [1].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31938-001, July [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31937-008, July [2].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-005, April [7].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31936-004, April [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-006, March [6].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31935-005, March [5].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-007, February [3].
+- Source: George H.W. Bush Library, Richard Cheney Collection, Chronological Files, OA/ID 31934-004, January [4].

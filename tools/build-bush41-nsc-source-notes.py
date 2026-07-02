@@ -29,6 +29,7 @@ FINDING_AID_URL = (
 SERIES_ENDPOINT = SITE_ROOT + "/bush-finding-aids/series-info/{naid}/finding-aids/all"
 NSC_SOURCE_PREFIX = "George H.W. Bush Library, Bush Presidential Records, National Security Council"
 SCOWCROFT_SOURCE_PREFIX = "George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection"
+CHENEY_SOURCE_PREFIX = "George H.W. Bush Library, Richard Cheney Collection"
 BUSH_PRESIDENTIAL_SOURCE_PREFIX = "George H.W. Bush Library, Bush Presidential Records"
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -95,6 +96,16 @@ SCOWCROFT_COLLECTION_SOURCE = {
     "group": "Brent Scowcroft Collection",
     "mode": "collection",
 }
+
+CHENEY_COLLECTION_SOURCE = {
+    "name": "Richard Cheney Collection",
+    "root_naid": "284825748",
+    "prefix": CHENEY_SOURCE_PREFIX,
+    "group": "Richard Cheney Collection",
+    "mode": "collection",
+}
+
+CATALOG_COLLECTION_SOURCES = [SCOWCROFT_COLLECTION_SOURCE, CHENEY_COLLECTION_SOURCE]
 
 
 H_FILES_TITLES = {
@@ -733,7 +744,7 @@ def merge_catalog_sources(
     errors: list[str] = []
     catalog_series: list[dict] = []
     catalog_entries: list[dict] = []
-    for source in [SCOWCROFT_COLLECTION_SOURCE, *CATALOG_SERIES_SOURCES]:
+    for source in [*CATALOG_COLLECTION_SOURCES, *CATALOG_SERIES_SOURCES]:
         try:
             source_series, source_entries = harvest_catalog_source(source, cache_dir)
             catalog_series.extend(source_series)
@@ -767,7 +778,7 @@ def merge_catalog_sources(
         row["series_order"] = index
 
     summary = {
-        "catalog_source_count": 1 + len(CATALOG_SERIES_SOURCES),
+        "catalog_source_count": len(CATALOG_COLLECTION_SOURCES) + len(CATALOG_SERIES_SOURCES),
         "catalog_series_raw_count": len(catalog_series),
         "catalog_series_added_count": len(added_series),
         "catalog_entry_raw_count": len(catalog_entries),
@@ -1059,9 +1070,10 @@ def main() -> int:
     series_rows = collect_series(args.cache_dir)
     print(f"Found {len(series_rows)} series", file=sys.stderr)
     entries, errors = make_entries(series_rows, max(1, args.workers), args.cache_dir)
+    entries, base_exact_duplicate_count = dedupe_exact_source_notes(entries)
     series_rows, entries, catalog_summary, catalog_errors = merge_catalog_sources(series_rows, entries, args.cache_dir)
-    entries, exact_duplicate_count = dedupe_exact_source_notes(entries)
-    catalog_summary["exact_source_note_duplicate_count"] = exact_duplicate_count
+    entries, catalog_exact_duplicate_count = dedupe_exact_source_notes(entries)
+    catalog_summary["exact_source_note_duplicate_count"] = base_exact_duplicate_count + catalog_exact_duplicate_count
     errors.extend(catalog_errors)
     summary = write_outputs(root, series_rows, entries, errors, catalog_summary)
     print(json.dumps(summary, indent=2), file=sys.stderr)

@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-07-02T02:06:29Z",
+  "generated_at": "2026-07-02T16:42:11Z",
   "source_url": "https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration",
   "repository_phrases": [
     "George H.W. Bush Library, Bush Presidential Records",
     "George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection",
-    "George H.W. Bush Library, Bush Presidential Records, National Security Council"
+    "George H.W. Bush Library, Bush Presidential Records, National Security Council",
+    "George H.W. Bush Library, Richard Cheney Collection"
   ],
-  "series_count": 319,
-  "series_with_container_lists": 298,
-  "entry_count": 68699,
-  "folder_entry_count": 68665,
+  "series_count": 324,
+  "series_with_container_lists": 303,
+  "entry_count": 70432,
+  "folder_entry_count": 70398,
   "item_entry_count": 13,
   "series_stem_count": 21,
-  "online_folder_entry_count": 6308,
-  "online_entry_count": 6321,
-  "catalog_link_count": 68699,
-  "online_object_link_count": 6323,
+  "online_folder_entry_count": 8041,
+  "online_entry_count": 8054,
+  "catalog_link_count": 70432,
+  "online_object_link_count": 8056,
   "source_group_counts": {
     "Brent Scowcroft Collection": 646,
     "National Security Council": 66054,
-    "Presidential Daily Files": 1999
+    "Presidential Daily Files": 1999,
+    "Richard Cheney Collection": 1733
   },
   "catalog_harvest": {
-    "catalog_source_count": 8,
-    "catalog_series_raw_count": 27,
-    "catalog_series_added_count": 21,
-    "catalog_entry_raw_count": 3747,
-    "catalog_entry_added_count": 2645,
-    "catalog_entry_duplicate_count": 1102,
+    "catalog_source_count": 9,
+    "catalog_series_raw_count": 32,
+    "catalog_series_added_count": 26,
+    "catalog_entry_raw_count": 5890,
+    "catalog_entry_added_count": 4378,
+    "catalog_entry_duplicate_count": 1512,
     "exact_source_note_duplicate_count": 753
   },
   "scrape_error_count": 0,

@@ -16,6 +16,7 @@ The browser shows 1,000 matching entries per page. Use the page controls in the 
 
 - Records of the National Security Council, George H.W. Bush Administration.
 - Brent Scowcroft Collection.
+- Richard Cheney Collection.
 - Presidential Daily Files.
 - NSC Meetings.
 - NSC/DC Meetings.
@@ -34,16 +35,16 @@ Where a source list supplies no Local ID/OA-ID value, the copied source note use
 
 ## Generated Counts
 
-- Entries: 68,699.
-- Folder entries: 68,665.
+- Entries: 70,432.
+- Folder entries: 70,398.
 - Catalog item entries: 13.
 - Series stems for series without container-list rows: 21.
-- Series/source lists harvested: 319.
-- Series with container lists: 298.
-- Online records: 6,321.
-- Source groups: 66,054 National Security Council; 646 Brent Scowcroft Collection; 1,999 Presidential Daily Files.
-- Catalog entries deduped before merge: 1,102.
-- Exact duplicate Source notes removed after merge: 753.
+- Series/source lists harvested: 324.
+- Series with container lists: 303.
+- Online records: 8,054.
+- Source groups: 66,054 National Security Council; 646 Brent Scowcroft Collection; 1,999 Presidential Daily Files; 1,733 Richard Cheney Collection.
+- Catalog entries deduped before merge: 1,512.
+- Exact duplicate Source notes removed during build: 753.
 - Scrape errors: 0.
 - Source-note validation problems: 0.
 - Duplicate Source notes: 0.
