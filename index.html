@@ -83,7 +83,7 @@
           </div>
 
           <div class="action-row">
-            <button id="copyFiltered" type="button">Copy Filtered Source Notes</button>
+            <button id="copyFiltered" type="button">Copy Current Page Source Notes</button>
             <button id="resetFilters" type="button">Reset</button>
             <span id="copyStatus" role="status" aria-live="polite"></span>
           </div>
@@ -101,7 +101,18 @@
             <p class="eyebrow">Source note entries</p>
             <h2 id="results-heading">Results</h2>
           </div>
-          <p id="resultCount">Loading entries...</p>
+          <div class="results-tools">
+            <p id="resultCount">Loading entries...</p>
+            <div class="pager" aria-label="Result pages">
+              <button id="previousPage" type="button">Previous 1,000</button>
+              <label class="page-select-label">
+                <span>Page</span>
+                <select id="pageSelect"></select>
+              </label>
+              <button id="nextPage" type="button">Next 1,000</button>
+              <span id="pageStatus" class="page-status" aria-live="polite">Page --</span>
+            </div>
+          </div>
         </div>
         <div class="results-table-wrap">
           <table>

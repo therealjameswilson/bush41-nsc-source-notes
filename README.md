@@ -10,6 +10,8 @@ Static browser and download package for FRUS-style source-note metadata entries 
 - `downloads/`: Markdown, text, CSV, and JSON exports.
 - `tools/build-bush41-nsc-source-notes.py`: repeatable extraction script for the Bush Library finding aid and selected Catalog source lists.
 
+The browser shows 1,000 matching entries per page. Use the page controls in the Results header to move through the next or previous 1,000 entries.
+
 ## Source Lists
 
 - Records of the National Security Council, George H.W. Bush Administration.

@@ -1,7 +1,5 @@
 const DATA_URL = "data/entries.min.json";
-const INITIAL_RESULTS = 1000;
-const RESULTS_BATCH = 1000;
-const SCROLL_LOAD_MARGIN = 1800;
+const PAGE_SIZE = 1000;
 
 const state = {
   entries: [],
@@ -11,8 +9,7 @@ const state = {
   sourceGroup: "all",
   series: "all",
   rowFilter: "all",
-  renderedCount: 0,
-  renderQueued: false,
+  pageIndex: 0,
 };
 
 const els = {
@@ -28,6 +25,10 @@ const els = {
   copyFiltered: document.querySelector("#copyFiltered"),
   copyStatus: document.querySelector("#copyStatus"),
   resultCount: document.querySelector("#resultCount"),
+  pageStatus: document.querySelector("#pageStatus"),
+  pageSelect: document.querySelector("#pageSelect"),
+  previousPage: document.querySelector("#previousPage"),
+  nextPage: document.querySelector("#nextPage"),
   body: document.querySelector("#resultsBody"),
   rowTemplate: document.querySelector("#rowTemplate"),
 };
@@ -128,16 +129,61 @@ function applyFilters() {
   state.matches = state.entries.filter(
     (entry) => matchesQuery(entry) && matchesSourceGroup(entry) && matchesSeries(entry) && matchesRowFilter(entry),
   );
-  state.renderedCount = 0;
-  els.body.replaceChildren();
-  appendResults(INITIAL_RESULTS);
+  state.pageIndex = 0;
+  renderPage();
 }
 
-function updateResultCount() {
+function totalPages() {
+  return Math.max(1, Math.ceil(state.matches.length / PAGE_SIZE));
+}
+
+function currentPageEntries() {
+  const start = state.pageIndex * PAGE_SIZE;
+  return state.matches.slice(start, start + PAGE_SIZE);
+}
+
+function updateResultCount(pageEntries) {
   const totalMatches = state.matches.length;
-  const shown = state.renderedCount;
-  const showingText = shown === totalMatches ? `showing all ${formatNumber(shown)}` : `showing ${formatNumber(shown)}`;
-  els.resultCount.textContent = `${formatNumber(totalMatches)} matches; ${showingText}`;
+  if (!totalMatches) {
+    els.resultCount.textContent = "0 matches";
+    return;
+  }
+  const start = state.pageIndex * PAGE_SIZE + 1;
+  const end = start + pageEntries.length - 1;
+  els.resultCount.textContent = `${formatNumber(totalMatches)} matches; showing ${formatNumber(start)}-${formatNumber(end)}`;
+}
+
+function updatePagerControls() {
+  const totalMatches = state.matches.length;
+  const pages = totalPages();
+  els.pageSelect.replaceChildren();
+
+  if (!totalMatches) {
+    const option = document.createElement("option");
+    option.value = "0";
+    option.textContent = "No pages";
+    els.pageSelect.appendChild(option);
+    els.pageSelect.disabled = true;
+    els.previousPage.disabled = true;
+    els.nextPage.disabled = true;
+    els.pageStatus.textContent = "Page 0 of 0";
+    return;
+  }
+
+  for (let index = 0; index < pages; index += 1) {
+    const start = index * PAGE_SIZE + 1;
+    const end = Math.min((index + 1) * PAGE_SIZE, totalMatches);
+    const option = document.createElement("option");
+    option.value = String(index);
+    option.textContent = `Page ${formatNumber(index + 1)} (${formatNumber(start)}-${formatNumber(end)})`;
+    els.pageSelect.appendChild(option);
+  }
+
+  els.pageSelect.value = String(state.pageIndex);
+  els.pageSelect.disabled = pages <= 1;
+  els.previousPage.disabled = state.pageIndex === 0;
+  els.nextPage.disabled = state.pageIndex >= pages - 1;
+  els.pageStatus.textContent = `Page ${formatNumber(state.pageIndex + 1)} of ${formatNumber(pages)}`;
 }
 
 function addMetaLink(parts, url, label) {
@@ -152,11 +198,14 @@ function locatorText(entry) {
   return "";
 }
 
-function appendResults(count) {
+function renderPage() {
   const totalMatches = state.matches.length;
+  const pageEntries = currentPageEntries();
+  els.body.replaceChildren();
 
   if (!totalMatches) {
-    updateResultCount();
+    updateResultCount(pageEntries);
+    updatePagerControls();
     const row = document.createElement("tr");
     const cell = document.createElement("td");
     cell.colSpan = 5;
@@ -167,11 +216,8 @@ function appendResults(count) {
     return;
   }
 
-  const nextEntries = state.matches.slice(state.renderedCount, state.renderedCount + count);
-  state.renderedCount += nextEntries.length;
-
   const fragment = document.createDocumentFragment();
-  nextEntries.forEach((entry) => {
+  pageEntries.forEach((entry) => {
     const row = els.rowTemplate.content.firstElementChild.cloneNode(true);
     row.querySelector(".source-note").textContent = entry.sourceNote;
     row.querySelector(".locator-cell").textContent = locatorText(entry);
@@ -193,26 +239,8 @@ function appendResults(count) {
     fragment.appendChild(row);
   });
   els.body.appendChild(fragment);
-  updateResultCount();
-  queueScrollCheck();
-}
-
-function hasMoreResults() {
-  return state.renderedCount < state.matches.length;
-}
-
-function nearPageBottom() {
-  const scrollBottom = window.scrollY + window.innerHeight;
-  return document.documentElement.scrollHeight - scrollBottom < SCROLL_LOAD_MARGIN;
-}
-
-function queueScrollCheck() {
-  if (state.renderQueued) return;
-  state.renderQueued = true;
-  requestAnimationFrame(() => {
-    state.renderQueued = false;
-    if (hasMoreResults() && nearPageBottom()) appendResults(RESULTS_BATCH);
-  });
+  updateResultCount(pageEntries);
+  updatePagerControls();
 }
 
 async function copyText(text, successMessage) {
@@ -279,6 +307,26 @@ els.rowFilter.addEventListener("change", (event) => {
   applyFilters();
 });
 
+els.previousPage.addEventListener("click", () => {
+  if (state.pageIndex <= 0) return;
+  state.pageIndex -= 1;
+  renderPage();
+  document.querySelector("#results-heading").scrollIntoView({ block: "start" });
+});
+
+els.nextPage.addEventListener("click", () => {
+  if (state.pageIndex >= totalPages() - 1) return;
+  state.pageIndex += 1;
+  renderPage();
+  document.querySelector("#results-heading").scrollIntoView({ block: "start" });
+});
+
+els.pageSelect.addEventListener("change", (event) => {
+  state.pageIndex = Number(event.target.value || 0);
+  renderPage();
+  document.querySelector("#results-heading").scrollIntoView({ block: "start" });
+});
+
 els.reset.addEventListener("click", () => {
   state.query = "";
   state.queryTerms = [];
@@ -294,12 +342,10 @@ els.reset.addEventListener("click", () => {
 });
 
 els.copyFiltered.addEventListener("click", () => {
-  const notes = state.matches.map((entry) => entry.sourceNote).join("\n");
-  copyText(notes, `Copied ${formatNumber(state.matches.length)} source notes.`);
+  const pageEntries = currentPageEntries();
+  const notes = pageEntries.map((entry) => entry.sourceNote).join("\n");
+  copyText(notes, `Copied ${formatNumber(pageEntries.length)} source notes from this page.`);
 });
-
-window.addEventListener("scroll", queueScrollCheck, { passive: true });
-window.addEventListener("resize", queueScrollCheck);
 
 loadData().catch((error) => {
   els.resultCount.textContent = error.message;
